@@ -1,5 +1,5 @@
 ---
-title: Sobre XRP Consultoria
+title: Sobre
 menu:
   main:
     weight: 1
