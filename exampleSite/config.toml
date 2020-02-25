@@ -1,5 +1,5 @@
 baseURL = "xrpconsultoria.netlify.com"
-languageCode = "en-us"
+languageCode = "pt-br"
 theme = "hugo-serif-theme"
 themesDir = "../.."
 title = "XRP Consultoria"
@@ -35,4 +35,4 @@ meta_twitter_site = "@zerostaticio"
 [params.logo]
 alt = "XRP Consultoria"
 mobile = "images/logo-mobile.svg"
-standard = "images/logo-xrp.svg"
+standard = "images/logo-xrp-03.svg"
