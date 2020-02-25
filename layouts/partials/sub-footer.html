@@ -5,12 +5,15 @@
         <div class="sub-footer-inner">
           <ul>
 {{ if .Site.Data.contact.phone }}
-            <li><strong>Phone: </strong><span>{{ .Site.Data.contact.phone }}</span></li>
+            <li>
+              <strong>Telefone / WhatsApp: </strong>
+              <a href="https://wa.me/553732129745?text=Olá,%20quero%20fazer%20um%20%orçamento20%para20%minha20%empresa">{{ .Site.Data.contact.phone }}</a>
+            </li>
 {{ end }}
             <li><strong>Email: </strong><a href="mailto:{{ .Site.Data.contact.email }}">
                 {{ .Site.Data.contact.email }}</a></li>
           </ul>
-          <a href="https://xrpconsultoria.netlify.com">www.xrpconsultoria.com</a>
+          <a href="https://xrpconsultoria.netlify.com"><span>www.xrpconsultoria.com</span></a>
         </div>
       </div>
     </div>
