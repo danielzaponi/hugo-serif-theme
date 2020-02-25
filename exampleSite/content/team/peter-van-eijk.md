@@ -1,7 +1,7 @@
 ---
 title: Rodrigo Carvalho
 date: 2018-11-19T00:47:58.000+00:00
-image: images/team/peter-van-eijk-711986-unsplash.jpg
+image: uploads/rodrigo-carvalho-001.jpg
 jobtitle: Contador
 linkedinurl: https://www.linkedin.com/
 weight: "1"
