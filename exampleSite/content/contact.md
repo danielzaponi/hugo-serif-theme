@@ -1,7 +1,7 @@
 ---
 title: Contato
 date: 2018-02-22T10:01:34.000+00:00
-layout: contato
+layout: contact
 menu:
   main:
     weight: 2
