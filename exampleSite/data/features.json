@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
+    "title": "Orçamento sem compromisso",
+    "description": "Faça orçamento para sua empresa agora sem compromisso",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Contadores Certificados",
+    "description": "Todos os membros da equipe são altamente qualificados",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Comprometimento",
+    "description": "Nós da XRP somos altamente comprometidos com a maximização dos resultados da sua empresa",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
