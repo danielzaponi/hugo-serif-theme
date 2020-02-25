@@ -7,4 +7,4 @@ intro_image_hide_on_mobile: true
 ---
 # XRP Consultoria
 
-## Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+## Nós da XRP Consultoria Contábil, temos os melhores profissionais do mercado para atender as necessidades da sua empresa.
