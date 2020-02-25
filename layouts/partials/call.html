@@ -1,7 +1,10 @@
 <div class="call">
   <div class="call-box-top">
 {{ if .Site.Data.contact.phone }}
-    <div class="call-phone"><strong>Phone: </strong> {{ .Site.Data.contact.phone }} </div>
+    <div class="call-phone">
+      <strong>Phone: </strong> 
+      <a href="https://wa.me/{{ .Site.Data.contact.phone }}Olá,%20quero%20fazer%20um%20%orçamento20%para20%minha20%empresa"></a> 
+    </div>
 {{ end }}
     <div class="call-email"><strong>Email: </strong>
       <a href="mailto:{{ .Site.Data.contact.email }}">
