@@ -1,7 +1,5 @@
 .main-menu {
   display: none;
-  position: fixed;
-  top: 0;
   @include media-breakpoint-up(md) {
     display: block;
   }
