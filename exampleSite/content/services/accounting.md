@@ -1,11 +1,10 @@
 ---
-title: "Accounting"
-date: 2018-11-18T12:33:46+10:00
-draft: false
+title: Consultoria trabalhista e gestão de departamento pessoal
+date: 2018-11-18T02:33:46.000+00:00
 featured: true
-weight: 1
----
+weight: "1"
 
+---
 Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
 de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
 crimen habet Priamum nec.
