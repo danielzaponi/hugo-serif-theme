@@ -12,11 +12,11 @@ name = "Home"
 url = "/"
 weight = 1
 [[menu.main]]
-name = "Team"
+name = "Equipe"
 url = "/team/"
 weight = 4
 [[menu.main]]
-name = "Services"
+name = "Serviços"
 url = "/services/"
 weight = 3
 [params]
